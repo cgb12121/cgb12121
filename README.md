@@ -23,7 +23,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cgb12121&show_icons=true&locale=en&layout=compact" alt="cgb12121" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cgb12121&" alt="cgb12121" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cgb12121&show_icons=true&locale=en" alt="cgb12121" /></p>
 
 <!---
 cgb12121/cgb12121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
