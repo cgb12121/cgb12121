@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on JAVa<br><br>🌱 I’m currently learning Angular <33<br><br>👯 I’m looking to collaborate on Spring boot projects<br><br>👨‍💻 All of my projects are available at https://github.com/cgb12121<br><br>💬 Ask me about Java, Spring, Anguluar<br><br>📫 How to reach me quanbaoyb@gmail.com
+🔭 I’m currently working on JAVa<br><br>🌱 I’m currently learning React <33<br><br>👯 I’m looking to collaborate on Spring boot projects<br><br>👨‍💻 All of my projects are available at https://github.com/cgb12121<br><br>💬 Ask me about Java, Spring, React<br><br>📫 How to reach me quanbaoyb@gmail.com
 
 
 # 💻 Tech Stack:
@@ -8,8 +8,6 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="30" alt="spring logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" height="30" alt="spring boot logo"/>
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="30" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
   <img width="12" />
