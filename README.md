@@ -24,7 +24,7 @@ Most recent benchmark from my distributed streaming engine core:
 
 ### 🔭 Featured Project
 
-**[👉 BBMovie Core (Click to View Source)](https://github.com/[USERNAME_CỦA_BÁC]/[TÊN_REPO_DỰ_ÁN])**
+**[👉 BBMovie Core (Click to View Source)](https://github.com/cgb12121/BBMovie])**
 *A distributed backend engine demonstrating High-Frequency Trading concepts applied to video streaming.*
 - **Tech**: Java 21, Rust, NATS, Qdrant.
 - **Architecture**: Event-Driven, Hexagonal Architecture.
@@ -32,5 +32,5 @@ Most recent benchmark from my distributed streaming engine core:
 ---
 
 ### 📫 Connect with me
-- **LinkedIn**: [Link LinkedIn của bác]
-- **Email**: [Email của bác]
+- **LinkedIn**: [https://www.linkedin.com/in/bui-thai-bao-560185315/]
+- **Email**: [quanbaoyb@gmail.com]
